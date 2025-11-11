@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e17182206fe857c",
+        "id": "038946e125fc9610",
         "type": "tabs",
         "children": [
           {
-            "id": "bfd6da48ad228673",
+            "id": "6f2f4d71cce2db8b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,7 +163,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "simple-mind-map:新建思维导图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -171,10 +170,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
+      "simple-mind-map:新建思维导图": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfd6da48ad228673",
+  "active": "6f2f4d71cce2db8b",
   "lastOpenFiles": [
     "工具书/如何阅读一本书/如何阅读一本书.md",
     "工具书/如何阅读一本书/思维导图/如何阅读一本书.xmind",
