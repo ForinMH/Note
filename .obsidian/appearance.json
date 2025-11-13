@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Cupertino",
+  "theme": "moonstone",
+  "accentColor": "",
+  "textFontFamily": "Cascadia Mono,霞鹜文楷",
+  "interfaceFontFamily": "Cascadia Mono,霞鹜文楷"
+}
